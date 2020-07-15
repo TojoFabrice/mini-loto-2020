@@ -1,0 +1,28 @@
+{
+  "name": "MiniLoto",
+  "displayName": "MiniLoto",
+  "expo": {
+    "name": "MiniLoto",
+    "slug": "MiniLoto",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "ios": {
+    "config": {
+      "googleMobileAdsAppId": "ca-app-pub-1126531054125229~9635261067"
+    }
+
+  },
+  "android": {
+    "config": {
+      "googleMobileAdsAppId": "ca-app-pub-1126531054125229~7296872332"
+    }
+  }
+}

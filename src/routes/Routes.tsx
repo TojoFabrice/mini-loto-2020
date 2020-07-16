@@ -93,7 +93,7 @@ export default function Routes() {
             <Stack.Screen name="Parrainage" component={Parrainage} />
             <Stack.Screen name="TirageLive" component={LotteryDrawLive} />
             <Stack.Screen name="Grilles" component={Grilles} />
-            <Stack.Screen name="myEarnings" component={myEarnings} />
+            <Stack.Screen name="MyEarnings" component={myEarnings} />
           </>
         ) : (
           <>

@@ -21,7 +21,7 @@
     "@types/react-redux": "^7.1.8",
     "@types/redux-logger": "^3.0.7",
     "@use-expo/font": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "~37.0.3",
     "expo-ads-admob": "^8.1.0",
     "expo-asset": "^8.1.5",
